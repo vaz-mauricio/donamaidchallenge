@@ -14,7 +14,7 @@ The localhost port is set to 5000 (127.0.0.1:5000)
 ```
 ## Tests
 
-All tests were run using Postman, with Content-Type set to application/json; charset=UTF-8
+All tests were run using Postman, with Content-Type set to application/json
 
 ## Authors
 
