@@ -1,0 +1,20 @@
+{
+  "name": "donamaid challenge",
+  "version": "0.0.1",
+  "description": "cleanning orders app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Maurício Vaz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-rate-limit": "^2.9.0",
+    "helmet": "^3.8.1",
+    "mongoose": "^4.11.8",
+    "validator": "^8.1.0"
+  }
+}
