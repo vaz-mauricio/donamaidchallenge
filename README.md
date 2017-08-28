@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 ```
-All modules are already saved on the package.json. Just npm install and you are ready to go.
+All modules were already saved on the package.json. Just npm install and you are ready to go.
 The localhost port is set to 5000 (127.0.0.1:5000)
 ```
 ## Tests
